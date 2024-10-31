@@ -1,4 +1,4 @@
-## Desafio de projeto simples para a contrução de uma calculadora de partidas Rankeadas.
+## Desafio de projeto simples para a construção de uma calculadora de partidas Rankeadas.
 
 # Desafio proposto
 **Calculadora de partidas Rankeadas**
