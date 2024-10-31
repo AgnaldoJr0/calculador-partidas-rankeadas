@@ -1,9 +1,9 @@
 ## Desafio de projeto simples para a contrução de uma calculadora de partidas Rankeadas.
 
 # Desafio proposto
- # Calculadora de partidas Rankeadas
-**O Que deve ser utilizado**
+**Calculadora de partidas Rankeadas**
 
+**O Que deve ser utilizado**
 * Variáveis
 * Operadores
 * Laços de repetição
